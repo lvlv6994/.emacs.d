@@ -1,0 +1,128 @@
+cls
+ps -ef | grep -i watchman
+man watchman
+curl cht.sh/watchman
+man watch
+cd
+cd code/marxist/
+ls
+git status
+git init
+git status
+git status
+git status
+git add .
+s
+git status
+cls
+ls
+rm -r .git/
+git status
+git init
+git status
+git status
+df -h -a 
+man eshell
+man ls
+man softwareupdate
+warning: in the working copy of 'lib/python3.12/site-packages/moderngl_window/context/headless/__init__.py', CRLF will be replaced by LF the next time Git touches it
+ls
+cls
+ls
+cls
+ls
+cls
+ls
+cls
+ls
+exit
+ls
+manim -qm main.py MarxistAnimation
+open -a Google\ Chrome media/videos/main/720p30/MarxistAnimation.mp4 
+[05/21/24 07:40:49] ERROR    Missing packages. Run `pip install "manim-voiceover[recorder]"` to use RecorderService.                             __init__.py:14
+pip install "manim-voiceover[recorder]"
+ls
+git status
+ls
+./helloworld
+echo $PROMPT
+source bin/activate
+env
+echo $SHELL
+/bin/zsh
+man ls
+ls
+cls
+ls
+cls
+getenv
+getenv TERM
+exit
+ls
+ls
+cls
+cls
+cls
+ls
+ls
+cls
+ls
+cls
+ls
+ls
+cd
+cd code/marxist
+ls
+git status
+git status
+ls
+cls
+ls
+cd code/marxist
+ls
+git status
+ls
+ls
+top
+htop
+man ls
+man info
+source bin/activate
+ls
+ls
+git status
+ls
+git status
+ls
+exit
+ls
+ls
+htop
+htop
+ls
+cls
+ls
+cls
+htop
+cls
+ls
+manim -pqm -v ERROR --preview_command mpv the_history_of_colonial_development.py 
+source bin/activate
+ls
+yazi
+exit
+ls
+ls
+cls
+ls
+cls
+top
+ls
+exit
+ls
+ls
+cls
+ls
+ps aux | grep -i emacs
+ls
+exit

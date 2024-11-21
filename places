@@ -1,0 +1,476 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("/Users/xm/Downloads/"
+  (dired-filename . "/Users/xm/Downloads/2024613-050280.mp4"))
+ ("/Users/xm/.emacs.d/init.el" . 2834)
+ ("/Users/xm/.config/kitty/kitty.conf" . 68633)
+ ("/Users/xm/code/marxist/helloworld.c" . 19)
+ ("/Users/xm/code/marxist/script.py" . 1747)
+ ("/Users/xm/code/marxist/the_history_of_communism.py" . 6950)
+ ("/Users/xm/code/marxist/"
+  (dired-filename . "/Users/xm/code/marxist/the_market.py"))
+ ("/Users/xm/"
+  (dired-filename . "/Users/xm/.tig_history"))
+ ("/Users/xm/code/marxist/the_market.py" . 1252)
+ ("/Applications/Emacs.app/Contents/Resources/etc/TODO" . 4148)
+ ("/Users/xm/code/marxist/the_left.py" . 407)
+ ("/Users/xm/code/marxist/the_market.md" . 6)
+ ("/Users/xm/.emacs.d/"
+  (dired-filename . "/Users/xm/.emacs.d/init.el"))
+ ("/Users/xm/Library/LaunchAgents/"
+  (dired-filename . "/Users/xm/Library/LaunchAgents/com.xm.emacs.plist"))
+ ("/Users/xm/Library/LaunchAgents/com.xm.emacs.plist" . 332)
+ ("/Users/xm/code/marxist/readme.md" . 425)
+ ("/Users/xm/code/marxist/README.md" . 30)
+ ("/Users/xm/.zshrc" . 19)
+ ("/Users/xm/.yabairc" . 2486)
+ ("/Users/xm/Documents/todo.org" . 1673)
+ ("/Users/xm/.skhdrc" . 3715)
+ ("/Users/xm/Movies/Videos/Media.localized/Automatically Add To Videos.localized/" . 13491)
+ ("/Users/xm/code/marxist/the_luvvoice.py" . 1148)
+ ("/Users/xm/code/marxist/kongzi.jpg" . 67)
+ ("/Users/xm/code/marxist/image_liening.jpg" . 56)
+ ("/Applications/Emacs.app/Contents/Resources/etc/AUTHORS" . 14012)
+ ("/Users/xm/code/helloworld/hello.c" . 287)
+ ("/Users/xm/code/helloworld/index.html" . 238)
+ ("/Users/xm/code/helloworld/readme.md" . 20)
+ ("/Users/xm/code/helloworld/helloworld.c" . 907)
+ ("/Users/xm/Documents/货币.md" . 1181)
+ ("/Users/xm/Documents/"
+  (dired-filename . "/Users/xm/Documents/todo.org"))
+ ("/Applications/Emacs.app/Contents/Resources/etc/DISTRIB" . 4568)
+ ("/Users/xm/code/marxist/the_market.py~" . 20)
+ ("/Users/xm/Movies/5月29日/" . 11244)
+ ("/Users/xm/code/"
+  (dired-filename . "/Users/xm/code/marxist"))
+ ("/Users/xm/code/marxist/the_history_of_currency_circulation.py" . 2624)
+ ("/Users/xm/code/movie/1/"
+  (dired-filename . "/Users/xm/code/movie/1/class_object_str.py"))
+ ("/Users/xm/code/movie/2/" . 1200)
+ ("/Users/xm/code/draw/mermaid/helloworld.mmd" . 235)
+ ("/Users/xm/.nanorc" . 459)
+ ("/Users/xm/Code/marxist/"
+  (dired-filename . "/Users/xm/Code/marxist/include"))
+ ("/Users/xm/cookie.txt" . 69)
+ ("/Users/xm/texput.log" . 2)
+ ("/Users/xm/.config/kitty/"
+  (dired-filename . "/Users/xm/.config/kitty/kitty.conf"))
+ ("/Users/xm/Pictures/"
+  (dired-filename . "/Users/xm/Pictures/WechatIMG40.jpg"))
+ ("/opt/homebrew/bin/jmacs" . 2)
+ ("/Users/xm/Code/marxist/the_left.py" . 408)
+ ("/Users/xm/Code/marxist/helloworld.c" . 177)
+ ("/Users/xm/code/marxist/media/images/ArrowExample/"
+  (dired-filename . "/Users/xm/code/marxist/media/images/ArrowExample/ArrowExample_ManimCE_v0.18.1.png"))
+ ("/Applications/Emacs.app/Contents/Resources/etc/HELLO" . 1440)
+ ("/Users/xm/code/editor/helloworld.c" . 75)
+ ("/Users/xm/code/marxist/surfaceExample.py" . 2449)
+ ("/Users/xm/code/editor/"
+  (dired-filename . "/Users/xm/code/editor/HelloWorld.java"))
+ ("/Users/xm/Code/helloworld/index.html" . 282)
+ ("/Users/xm/docker.org_archive" . 55)
+ ("/Users/xm/.screenrc" . 10)
+ ("/Users/xm/.vimrc" . 21)
+ ("/Users/xm/Code/marxist/the_politics_of_china.py" . 320)
+ ("/Users/xm/Code/marxist/the_history_of_currency_circulation.py" . 2688)
+ ("/Users/xm/.joe_state" . 1700)
+ ("/Users/xm/Code/marxist/shadow_effect.py" . 410)
+ ("/Users/xm/.spacemacs" . 6342)
+ ("/Users/xm/Code/marxist/sphere_with_shadow.py" . 772)
+ ("/Users/xm/.spacemacs.env" . 6088)
+ ("/Users/xm/.bashrc" . 5003)
+ ("/Users/xm/Applications/"
+  (dired-filename . "/Users/xm/Applications/.DS_Store"))
+ ("/Users/xm/.vscode/extensions/github.copilot-1.100.306/README.md" . 6731)
+ ("/Users/xm/code/marxist/bin/"
+  (dired-filename . "/Users/xm/code/marxist/bin/f2py"))
+ ("/Users/xm/code/marxist/python_lamdba.py" . 201)
+ ("/Users/xm/code/movie/3/" . 132)
+ ("/Users/xm/code/movie/4/"
+  (dired-filename . "/Users/xm/code/movie/4/map_animation.gif"))
+ ("/Users/xm/Code/"
+  (dired-filename . "/Users/xm/Code/draw"))
+ ("/Users/xm/Code/draw/"
+  (dired-filename . "/Users/xm/Code/draw/mermaid"))
+ ("/Users/xm/Code/draw/mermaid/"
+  (dired-filename . "/Users/xm/Code/draw/mermaid/helloworld.png"))
+ ("/Users/xm/code/marxist/the_changed_and_opened.py" . 187)
+ ("/Users/xm/code/helloworld/index.js" . 1507)
+ ("/Users/xm/code/helloworld/timeseries.csv" . 7469)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/README.md" . 8907)
+ ("/Users/xm/code/python/helloworld_4_faker.py" . 99)
+ ("/Users/xm/code/movie/1/class_object_str.py" . 206)
+ ("/Users/xm/code/movie/text_to_image.py" . 612)
+ ("/Users/xm/code/marxist/the_history_of_colonial_development.py" . 67)
+ ("/Users/xm/code/python/helloworld_marmaid.py" . 904)
+ ("/Users/xm/code/movie/"
+  (dired-filename . "/Users/xm/code/movie/text_to_image.py"))
+ ("/Users/xm/code/python/bin/"
+  (dired-filename . "/Users/xm/code/python/bin/activate.fish"))
+ ("/Users/xm/code/python/"
+  (dired-filename . "/Users/xm/code/python/helloworld_5.py"))
+ ("/Users/xm/code/python/helloworld_5.py" . 145)
+ ("/Users/xm/code/python/helloworld.c" . 460)
+ ("/Users/xm/code/python/helloworld_assert.py" . 62)
+ ("/Users/xm/code/python/helloworld.py" . 1037)
+ ("/Users/xm/code/python/keymap.py" . 164)
+ ("/Users/xm/code/python/china_map.html" . 219824)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/bootstrap/README.md"))
+ ("/Users/xm/code/python/helloworld_pygame.py" . 978)
+ ("/Users/xm/.arthas/"
+  (dired-filename . "/Users/xm/.arthas/history"))
+ ("/Users/xm/.android/" . 122)
+ ("/Users/xm/.VimStock/"
+  (dired-filename . "/Users/xm/.VimStock/mystock"))
+ ("/Users/xm/Movies/"
+  (dired-filename . "/Users/xm/Movies/Videos"))
+ ("/Users/xm/Movies/Videos/"
+  (dired-filename . "/Users/xm/Movies/Videos/.DS_Store"))
+ ("/Users/xm/Music/"
+  (dired-filename . "/Users/xm/Music/QQ音乐"))
+ ("/Users/xm/Code/movie/4/"
+  (dired-filename . "/Users/xm/Code/movie/4/hello01.py"))
+ ("/Users/xm/Code/movie/1/"
+  (dired-filename . "/Users/xm/Code/movie/1/class_object_str.py"))
+ ("/Users/xm/Code/helloworld/index.js" . 924)
+ ("/Users/xm/Code/movie/2/"
+  (dired-filename . "/Users/xm/Code/movie/2/background_1.png"))
+ ("/Users/xm/Code/editor/"
+  (dired-filename . "/Users/xm/Code/editor/helloworld.cpp"))
+ ("/Users/xm/Code/helloworld/"
+  (dired-filename . "/Users/xm/Code/helloworld/index.js"))
+ ("/Users/xm/Code/python/"
+  (dired-filename . "/Users/xm/Code/python/helloworld_3_string.py"))
+ ("/Users/xm/Code/movie/"
+  (dired-filename . "/Users/xm/Code/movie/3"))
+ ("/Users/xm/Code/movie/3/"
+  (dired-filename . "/Users/xm/Code/movie/3/digram.png"))
+ ("/Users/xm/Code/marxist/public/"
+  (dired-filename . "/Users/xm/Code/marxist/public/images"))
+ ("/Users/xm/Code/marxist/communsim.jpg" . 109)
+ ("/Users/xm/.myclirc" . 3695)
+ ("/dev/"
+  (dired-filename . "/dev/aes_0"))
+ ("/Users/xm/.config/htop/htoprc" . 262)
+ ("/opt/homebrew/bin/"
+  (dired-filename . "/opt/homebrew/bin/autoconf"))
+ ("/Users/xm/Library/"
+  (dired-filename . "/Users/xm/Library/IntelligencePlatform"))
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/readme.md" . 10420)
+ ("/Users/xm/code/helloworld/node_modules/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/bootstrap5"))
+ ("/Users/xm/.bash_history" . 4470)
+ ("/Users/xm/.zsh_history" . 11321)
+ ("/etc/zprofile" . 256)
+ ("/etc/profile" . 190)
+ ("/Users/xm/code/movie/helloworld.py" . 251)
+ ("/Users/xm/code/python/bin/Activate.ps1" . 4405)
+ ("/Users/xm/code/python/bin/activate" . 2035)
+ ("/Users/xm/code/python/helloworld_1.py" . 318)
+ ("/Applications/Emacs.app/Contents/Resources/etc/COPYING" . 30778)
+ ("/Users/"
+  (dired-filename . "/Users/xm"))
+ ("/tmp/"
+  (dired-filename . "/tmp/helloworld.c"))
+ ("/Users/xm/.config/mc/ini" . 3513)
+ ("/opt/homebrew/var/run/watchman/xm-state/log" . 314048)
+ ("/opt/homebrew/Cellar/wiki/1.4.1/"
+  (dired-filename . "/opt/homebrew/Cellar/wiki/1.4.1/.brew"))
+ ("/opt/homebrew/Cellar/wiki/1.4.1/README.md" . 2295)
+ ("/opt/homebrew/Cellar/wiki/1.4.1/.brew/wiki.rb" . 322)
+ ("/Users/xm/.config/alacritty/alacritty.yml.back" . 818)
+ ("/Users/xm/.config/alacritty/alacritty.toml" . 9)
+ ("/Users/xm/code/python/helloworld_6.py" . 261)
+ ("/Users/xm/.config/yazi/" . 14635)
+ ("/Users/xm/code/marxist/the_politics_of_china.py" . 206)
+ ("/etc/"
+  (dired-filename . "/etc/localtime"))
+ ("/Users/xm/.config/yazi/plugins/" . 128)
+ ("/Users/xm/code/marxist/media/"
+  (dired-filename . "/Users/xm/code/marxist/media/images"))
+ ("/Users/xm/code/marxist/media/images/"
+  (dired-filename . "/Users/xm/code/marxist/media/images/ArrowExample"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/updaters/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/updaters/__init__.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/vertex_colors/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/vertex_colors/frag.glsl"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/vertex_colors"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/vectorized_mobject_fill/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/vectorized_mobject_fill/frag.glsl"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/true_dot/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/true_dot/frag.glsl"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/textured_surface/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/textured_surface/frag.glsl"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/manim_coords/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/renderer/shaders/manim_coords/vert.glsl"))
+ ("/Users/xm/code/marxist/manim.cfg" . 1210)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/.."))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/movement.py" . 982)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/constants.py" . 39)
+ ("/opt/homebrew/"
+  (dired-filename . "/opt/homebrew/.editorconfig"))
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/scss/forms/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/bootstrap/scss/forms/_floating-labels.scss"))
+ ("/Users/xm/code/helloworld/node_modules/three/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src"))
+ ("/Users/xm/code/helloworld/node_modules/three/src/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src/math"))
+ ("/Users/xm/code/helloworld/node_modules/three/src/math/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src/math/Color.js"))
+ ("/Users/xm/code/helloworld/node_modules/three/src/helpers/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src/helpers/ArrowHelper.js"))
+ ("/Users/xm/code/helloworld/node_modules/three/src/core/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src/core/UniformsGroup.js"))
+ ("/Users/xm/code/helloworld/node_modules/three/src/animation/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src/animation/AnimationAction.js"))
+ ("/Users/xm/code/helloworld/node_modules/three/src/cameras/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/three/src/cameras/OrthographicCamera.js"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/changing.py" . 174)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/animation.py" . 19237)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/opengl/__init__.py" . 561)
+ ("/opt/homebrew/README.md" . 7095)
+ ("/Users/xm/code/helloworld/node_modules/nanoid/readme.md" . 1525)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/tab.js" . 6121)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/scss/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/bootstrap/scss/forms"))
+ ("/Users/xm/code/helloworld/node_modules/three/examples/jsm/math/Capsule.js" . 1492)
+ ("/Users/xm/code/helloworld/node_modules/three/src/math/Color.js" . 4858)
+ ("/Users/xm/code/helloworld/node_modules/three/src/helpers/ArrowHelper.js" . 2741)
+ ("/Users/xm/code/helloworld/node_modules/three/src/core/Object3D.js" . 3449)
+ ("/Users/xm/code/helloworld/node_modules/three/src/core/Layers.js" . 578)
+ ("/Users/xm/code/helloworld/node_modules/three/src/core/BufferAttribute.js" . 4009)
+ ("/Users/xm/code/helloworld/node_modules/three/src/cameras/PerspectiveCamera.js" . 3273)
+ ("/Users/xm/code/helloworld/node_modules/three/src/cameras/StereoCamera.js" . 2695)
+ ("/Users/xm/code/helloworld/node_modules/three/src/animation/PropertyBinding.js" . 5860)
+ ("/Users/xm/code/helloworld/node_modules/three/src/animation/AnimationObjectGroup.js" . 7266)
+ ("/Users/xm/code/helloworld/node_modules/three/src/Three.js" . 9578)
+ ("/Users/xm/code/draw/plantuml/"
+  (dired-filename . "/Users/xm/code/draw/plantuml/.."))
+ ("/Users/xm/code/draw/"
+  (dired-filename . "/Users/xm/code/draw/mermaid"))
+ ("/Users/xm/code/draw/mermaid/"
+  (dired-filename . "/Users/xm/code/draw/mermaid/helloworld.mmd"))
+ ("/Users/xm/code/draw/graphviz/政治现代化.dot" . 277)
+ ("/Users/xm/code/draw/graphviz/"
+  (dired-filename . "/Users/xm/code/draw/graphviz/政治现代化.dot"))
+ ("/Users/xm/code/draw/plantuml/helloworld.puml" . 202)
+ ("/opt/homebrew/etc/neomuttrc" . 2934)
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/include/"
+  (dired-filename . "/opt/homebrew/Cellar/quickjs/2024-01-13/include/quickjs"))
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/include/quickjs/"
+  (dired-filename . "/opt/homebrew/Cellar/quickjs/2024-01-13/include/quickjs/quickjs.h"))
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/"
+  (dired-filename . "/opt/homebrew/Cellar/quickjs/2024-01-13/TODO"))
+ ("/Users/xm/Public/"
+  (dired-filename . "/Users/xm/Public/.DS_Store"))
+ ("/Users/xm/Movies/JianyingPro/"
+  (dired-filename . "/Users/xm/Movies/JianyingPro/.DS_Store"))
+ ("/Users/xm/Movies/Bcut Drafts/"
+  (dired-filename . "/Users/xm/Movies/Bcut Drafts/.DS_Store"))
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/bin/"
+  (dired-filename . "/opt/homebrew/Cellar/quickjs/2024-01-13/bin/qjs"))
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/lib/"
+  (dired-filename . "/opt/homebrew/Cellar/quickjs/2024-01-13/lib/quickjs"))
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/lib/quickjs/"
+  (dired-filename . "/opt/homebrew/Cellar/quickjs/2024-01-13/lib/quickjs/libquickjs.a"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/templates/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/templates/Axes.mtp"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/mobject/geometry/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/mobject/geometry/__init__.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/scene/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/scene/moving_camera_scene.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/camera/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/camera/camera.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/__pycache__/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/__pycache__/.."))
+ ("/Users/xm/code/draw/graphviz/市场.dot" . 81)
+ ("/Users/xm/code/draw/graphviz/太平天国.dot" . 123)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/mobject/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/mobject/logo.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/mobject/logo.py" . 656)
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/include/quickjs/quickjs.h" . 2838)
+ ("/opt/homebrew/Cellar/quickjs/2024-01-13/include/quickjs/quickjs-libc.h" . 2516)
+ ("/Users/xm/Library/Fonts/" . 2502)
+ ("/Users/xm/.terminfo/"
+  (dired-filename . "/Users/xm/.terminfo/kitty.terminfo"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/scene/scene.py" . 6157)
+ ("/Users/xm/code/draw/graphviz/经济.dot" . 236)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/text_to_speech.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/text_to_speech.py" . 472)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/speech_to_text.py" . 1495)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/llm_engine.py" . 2196)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/image_question_answering.py" . 2001)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/evaluate_agent.py" . 1942)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/document_question_answering.py" . 3016)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/default_tools.py" . 3566)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/__pycache__/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/__pycache__/__init__.cpython-312.pyc"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/agents/agents.py" . 2849)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/transformers/activations.py" . 4525)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/__init__.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/spectral_ops.py" . 1513)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/pretrained.py" . 746)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/modules.py" . 2221)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/models.py" . 1648)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/loss.py" . 763)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/helpers.py" . 1907)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/experiment.py" . 204)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/discriminators.py" . 3329)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/vocos/dataset.py" . 1086)
+ ("/Users/xm/code/marxist/3.pdf" . 4629179)
+ ("/Users/xm/code/draw/graphviz/西方历史.dot" . 260)
+ ("/Users/xm/code/draw/graphviz/走向共和.dot" . 27)
+ ("/Users/xm/code/draw/graphviz/README.md" . 21)
+ ("/Users/xm/Code/draw/plantuml/"
+  (dired-filename . "/Users/xm/Code/draw/plantuml/helloworld.png"))
+ ("/Users/xm/Postman/"
+  (dired-filename . "/Users/xm/Postman/files"))
+ ("/Users/xm/Code/draw/graphviz/"
+  (dired-filename . "/Users/xm/Code/draw/graphviz/.."))
+ ("/Users/xm/.terminfo/78/"
+  (dired-filename . "/Users/xm/.terminfo/78/.."))
+ ("/Users/xm/.terminfo/61/" . 120)
+ ("/Users/xm/.sogouinput/" . 125)
+ ("/Users/xm/code/marxist/media/videos/"
+  (dired-filename . "/Users/xm/code/marxist/media/videos/main_2"))
+ ("/Users/xm/code/marxist/media/texts/"
+  (dired-filename . "/Users/xm/code/marxist/media/texts/31746ecd6e27e2ed.svg"))
+ ("/Users/xm/code/marxist/media/images/manim_circle/" . 146)
+ ("/Users/xm/code/marxist/media/images/manim_dot/" . 143)
+ ("/Users/xm/code/marxist/media/images/manim_text_2/" . 146)
+ ("/Users/xm/code/marxist/.gitignore" . 14)
+ ("/etc/zshrc" . 3095)
+ ("/Users/xm/.config/neofetch/config.conf" . 5239)
+ ("/Users/xm/.gitconfig" . 103)
+ ("/Users/xm/code/python/lib/python3.12/site-packages/thread/utils/"
+  (dired-filename . "/Users/xm/code/python/lib/python3.12/site-packages/thread/utils/__init__.py"))
+ ("/Users/xm/code/python/lib/python3.12/site-packages/thread/decorators/"
+  (dired-filename . "/Users/xm/code/python/lib/python3.12/site-packages/thread/decorators/.."))
+ ("/Users/xm/code/python/lib/python3.12/site-packages/thread/thread.py" . 19751)
+ ("/Users/xm/code/python/lib/python3.12/site-packages/thread/"
+  (dired-filename . "/Users/xm/code/python/lib/python3.12/site-packages/thread/thread.py"))
+ ("/Users/xm/code/python/lib/python3.12/site-packages/thread/__init__.py" . 676)
+ ("/Users/xm/.config/fanyi/searchHistroy.txt" . 9243)
+ ("/Users/xm/code/helloworld/node_modules/three/examples/jsm/animation/CCDIKSolver.js" . 5033)
+ ("/Users/xm/code/helloworld/node_modules/three/examples/jsm/animation/AnimationClipCreator.js" . 2557)
+ ("/Users/xm/code/helloworld/node_modules/three/examples/jsm/Addons.js" . 12183)
+ ("/Users/xm/code/helloworld/node_modules/vite/types/hmrPayload.d.ts" . 1102)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/base-component.js" . 1827)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/util/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/bootstrap/js/src/util/component-functions.js"))
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/util/component-functions.js" . 1115)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/bootstrap/js/src/util"))
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/dropdown.js" . 5637)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/src/alert.js" . 1904)
+ ("/Users/xm/code/helloworld/node_modules/bootstrap/js/index.umd.js" . 875)
+ ("/opt/homebrew/lib/python3.11/site-packages/chatgpt_wrapper/browser_shell.py" . 1503)
+ ("/opt/homebrew/lib/python3.11/site-packages/chatgpt_wrapper/main.py" . 3630)
+ ("/Users/xm/code/helloworld/node_modules/three/README.md" . 3005)
+ ("/Users/xm/code/helloworld/node_modules/vite/types/"
+  (dired-filename . "/Users/xm/code/helloworld/node_modules/vite/types/hmrPayload.d.ts"))
+ ("/Users/xm/code/helloworld/node_modules/vite/bin/vite.js" . 1671)
+ ("/Applications/kitty.app/Contents/Info.plist" . 3867)
+ ("/Users/xm/.p10k.zsh" . 2962)
+ ("/etc/locate.rc" . 833)
+ ("/etc/aliases" . 9924)
+ ("/etc/zshrc_Apple_Terminal" . 4857)
+ ("/Users/xm/code/marxist/bin/activate" . 2039)
+ ("/Applications/Emacs.app/Contents/MacOS/bin/"
+  (dired-filename . "/Applications/Emacs.app/Contents/MacOS/bin/etags"))
+ ("/Users/xm/code/python/helloworld_3_string.py" . 111)
+ ("/Users/xm/code/python/lib/python3.12/site-packages/keyboard/__init__.py" . 8496)
+ ("/Users/xm/code/python/lib/python3.12/site-packages/keyboard/__pycache__/"
+  (dired-filename . "/Users/xm/code/python/lib/python3.12/site-packages/keyboard/__pycache__/.."))
+ ("/Users/xm/code/python/lib/python3.12/site-packages/keyboard/_nixkeyboard.py" . 5883)
+ ("/Users/xm/code/python/lib/python3.12/site-packages/keyboard/"
+  (dired-filename . "/Users/xm/code/python/lib/python3.12/site-packages/keyboard/_nixkeyboard.py"))
+ ("/Users/xm/code/python/lib/python3.12/site-packages/keyboard/mouse.py" . 7081)
+ ("/Users/xm/code/python/helloworld_2_class.py" . 44)
+ ("/Users/xm/Code/marxist/python_decorator_test.py" . 214)
+ ("/Users/xm/Code/marxist/python_lamdba.py" . 38)
+ ("/Users/xm/code/marxist/china_topo.json" . 10566)
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/chinese_converter/__pycache__/"
+  (dired-filename . "/Users/xm/Code/marxist/lib/python3.12/site-packages/chinese_converter/__pycache__/__init__.cpython-312.pyc"))
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/chinese_converter/__init__.py" . 2225)
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/chinese_converter/"
+  (dired-filename . "/Users/xm/Code/marxist/lib/python3.12/site-packages/chinese_converter/__init__.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/test/test_shape.py" . 513)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/test/test_copy.py" . 16)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/creation.py" . 12821)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/cli/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/cli/__init__.py"))
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/cli/"
+  (dired-filename . "/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/cli/.."))
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/"
+  (dired-filename . "/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/constants.py"))
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/constants.py" . 611)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/utils/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/utils/images.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/utils/images.py" . 1665)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/gui/__pycache__/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/gui/__pycache__/.."))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/gui/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/gui/gui.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/plugins/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/manim/plugins/plugins_flags.py"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/animation/fading.py" . 231)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/scene/vector_space_scene.py" . 9739)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/scene/section.py" . 230)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/utils/tex.py" . 4875)
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/cli/render/"
+  (dired-filename . "/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/cli/render/.."))
+ ("/Users/xm/Code/marxist/lib/python3.12/site-packages/manim/cli/render/commands.py" . 2014)
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/manim/scene/three_d_scene.py" . 5908)
+ ("/Users/xm/code/marxist/lib/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12"))
+ ("/Users/xm/code/marxist/lib/python3.12/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/markdown_it"))
+ ("/Users/xm/code/marxist/lib/python3.12/site-packages/markdown_it/"
+  (dired-filename . "/Users/xm/code/marxist/lib/python3.12/site-packages/markdown_it/main.py"))
+ ("/Users/xm/code/marxist/include/"
+  (dired-filename . "/Users/xm/code/marxist/include/python3.12"))
+ ("/Users/xm/code/marxist/public/"
+  (dired-filename . "/Users/xm/code/marxist/public/images"))
+ ("/Users/xm/code/marxist/public/images/"
+  (dired-filename . "/Users/xm/code/marxist/public/images/SiDaLin.jpg"))
+ ("/Users/xm/code/marxist/china.topo.json" . 403233)
+ ("/Applications/Emacs.app/Contents/Resources/lisp/window.el.gz" . 431930)
+ ("/Users/xm/nacos/"
+  (dired-filename . "/Users/xm/nacos/.DS_Store"))
+ ("/opt/homebrew/Library/Taps/homebrew/homebrew-services/README.md" . 744)
+ ("/Users/xm/.emacs.d/viper" . 70)
+ ("/Users/xm/.docker/desktop-build/"
+  (dired-filename . "/Users/xm/.docker/desktop-build/.."))
+ ("/Users/xm/.docker/"
+  (dired-filename . "/Users/xm/.docker/.buildNodeID"))
+ ("/Users/xm/.docker/scout/"
+  (dired-filename . "/Users/xm/.docker/scout/sbom"))
+ ("/Users/xm/.docker/scan/"
+  (dired-filename . "/Users/xm/.docker/scan/config.json"))
+ ("/Users/xm/.docker/sbom/"
+  (dired-filename . "/Users/xm/.docker/sbom/sha256"))
+ ("/Users/xm/.docker/run/" . 113)
+ ("/Users/xm/.docker/mutagen/"
+  (dired-filename . "/Users/xm/.docker/mutagen/daemon"))
+ ("/Users/xm/code/marxist/share/"
+  (dired-filename . "/Users/xm/code/marxist/share/man"))
+ ("/Users/xm/code/marxist/share/man/man1/"
+  (dired-filename . "/Users/xm/code/marxist/share/man/man1/mid3cp.1"))
+ ("/Users/xm/code/marxist/share/man/"
+  (dired-filename . "/Users/xm/code/marxist/share/man/man1"))
+ ("/Users/xm/code/marxist/include/python3.12/"
+  (dired-filename . "/Users/xm/code/marxist/include/python3.12/.."))
+ ("/Users/xm/.ssh/id_rsa" . 2611))

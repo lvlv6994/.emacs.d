@@ -173,9 +173,10 @@
   (menu-bar-mode -1)
   (tool-bar-mode -1)
   (scroll-bar-mode -1))
-(add-hook 'server-visit-hook 'my-disable-bar)
 
-(load-theme 'deeper-blue)
+(add-hook 'after-init-hook '(add-hook 'server-start-hook 'my-disable-bar))
+
+;;(load-theme 'deeper-blue)
 (message "Loading ~/.emacs.d/init.el completed")
 
 
