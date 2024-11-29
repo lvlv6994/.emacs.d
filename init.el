@@ -52,7 +52,7 @@
 
 (setq dired-listing-switches "-alh")
 
-;;(global-set-key (kbd "C-x C-c") 'server-edit)
+(global-set-key (kbd "C-x c") 'compile)
 (global-set-key (kbd "C-x K") 'kill-current-buffer)
 ;;(global-set-key (kbd "C-h") 'delete-backward-char) 
 (global-set-key (kbd "C-u") 'kill-whole-line)
@@ -127,7 +127,7 @@
  ;; If there is more than one, they won't work right.
  '(custom-safe-themes
    '("058ba0ed929f801fc4077617e816797654c7775382943520875642d5507d8696" "91c008faf603a28d026957120a5a924a3c8fff0e12331abf5e04c0e9dd310c65" "0ed3d96a506b89c1029a1ed904b11b5adcebeb2e0c16098c99c0ad95cb124729" "5e3fc08bcadce4c6785fc49be686a4a82a356db569f55d411258984e952f194a" "a0feb1322de9e26a4d209d1cfa236deaf64662bb604fa513cca6a057ddf0ef64" "b6c43bb2aea78890cf6bd4a970e6e0277d2daf0075272817ea8bb53f9c6a7f0a" "7153b82e50b6f7452b4519097f880d968a6eaf6f6ef38cc45a144958e553fbc6" "04dd0236a367865e591927a3810f178e8d33c372ad5bfef48b5ce90d4b476481" "d8bcb88ef0a3259a38d6deba78e569c0750ebfede82ad3e6da16573419fef48c" "8122fb61548fe36171d9cf24cdb9b5f24d053b626d4cda739c3815e080623209" default))
- '(package-selected-packages '(undo-tree markdown-mode pdf-tools web-mode)))
+ '(package-selected-packages '(magit undo-tree markdown-mode pdf-tools web-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -154,7 +154,7 @@
 (put 'set-goal-column 'disabled nil)
 
 
-(pdf-tools-install)
+;;(pdf-tools-install)
 (put 'dired-find-alternate-file 'disabled nil)
 
 (add-hook 'server-done-hook 'delete-frame)
@@ -176,6 +176,24 @@
 (add-hook 'server-visit-hook 'my-disable-bar)
 
 (load-theme 'deeper-blue)
+
+
+
+(require 'package)
+(setq package-archives
+      '(("melpa-stable" . "https://stable.melpa.org/packages/")
+        ("melpa" . "https://melpa.org/packages/")
+        ("gnu" . "https://elpa.gnu.org/packages/")
+        ("nongnu" . "https://elpa.nongnu.org/nongnu/")))
+(package-initialize)
+
+(unless (package-installed-p 'use-package)
+  (package-refresh-contents)
+  (package-install 'use-package))
+
+(use-package magit
+  :ensure t
+  :defer t
+  :bind ("C-x g" . magit-status))
+
 (message "Loading ~/.emacs.d/init.el completed")
-
-

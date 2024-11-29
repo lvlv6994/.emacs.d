@@ -1,18 +1,47 @@
 ;;; -*- coding: utf-8; mode: lisp-data -*-
-(("/Users/xm/Downloads/"
-  (dired-filename . "/Users/xm/Downloads/2024613-050280.mp4"))
- ("/Users/xm/.emacs.d/init.el" . 2834)
- ("/Users/xm/.config/kitty/kitty.conf" . 68633)
- ("/Users/xm/code/marxist/helloworld.c" . 19)
+(("/Users/xm/.emacs.d/init.el" . 927)
+ ("/Users/xm/Documents/"
+  (dired-filename . "/Users/xm/Documents/1992年邓小平南巡讲话(全文).pdf"))
+ ("/Users/xm/"
+  (dired-filename . "/Users/xm/.CFUserTextEncoding"))
+ ("/Users/xm/.config/yazi/"
+  (dired-filename . "/Users/xm/.config/yazi/keymap.toml"))
+ ("/Users/xm/.zshrc" . 5803)
+ ("/opt/homebrew/Cellar/yazi/0.3.3/"
+  (dired-filename . "/opt/homebrew/Cellar/yazi/0.3.3/README.md"))
+ ("/opt/homebrew/Cellar/yazi/0.3.3/README.md" . 6536)
+ ("/Users/xm/.config/yazi/keymap.toml" . 684)
+ ("/Users/xm/.mysqlsh/mysqlsh.log" . 71958)
+ ("/Users/xm/.config/kitty/kitty.conf" . 59792)
+ ("/Users/xm/.config/yazi/yazi.toml" . 150)
+ ("/Users/xm/.local/"
+  (dired-filename . "/Users/xm/.local/bin"))
+ ("/Users/xm/code/helloworld/monitor.c" . 167)
+ ("/Users/xm/.config/yazi/init.lua" . 471)
+ ("/Applications/emacsclient.app/Contents/document.wflow" . 4794)
+ ("/Users/xm/code/helloworld/Makefile" . 50)
+ ("/Users/xm/.config/kitty/current-theme.conf" . 1109)
+ ("/Users/xm/code/marxist/the_market.py" . 2003)
+ ("/Users/xm/.config/htop/htoprc" . 948)
+ ("/Users/xm/.skhdrc" . 6344)
+ ("/opt/homebrew/Cellar/raylib/5.0/include/"
+  (dired-filename . "/opt/homebrew/Cellar/raylib/5.0/include/raylib.h"))
+ ("/opt/homebrew/Cellar/raylib/5.0/lib/"
+  (dired-filename . "/opt/homebrew/Cellar/raylib/5.0/lib/cmake"))
+ ("/Users/xm/code/helloworld/helloworld.c" . 683)
+ ("/Users/xm/Pictures/"
+  (dired-filename . "/Users/xm/Pictures/WechatIMG35.jpg"))
+ ("/Users/xm/code/marxist/"
+  (dired-filename . "/Users/xm/code/marxist/shadow_effect.py"))
+ ("/Users/xm/code/marxist/the_left.py" . 95)
+ ("/Users/xm/code/editor/helloworld.c" . 75)
+ ("/opt/homebrew/Cellar/raylib/5.0/"
+  (dired-filename . "/opt/homebrew/Cellar/raylib/5.0/README.md"))
+ ("/opt/homebrew/Cellar/raylib/5.0/README.md" . 6898)
+ ("/opt/homebrew/Cellar/raylib/5.0/HISTORY.md" . 33947)
  ("/Users/xm/code/marxist/script.py" . 1747)
  ("/Users/xm/code/marxist/the_history_of_communism.py" . 6950)
- ("/Users/xm/code/marxist/"
-  (dired-filename . "/Users/xm/code/marxist/the_market.py"))
- ("/Users/xm/"
-  (dired-filename . "/Users/xm/.tig_history"))
- ("/Users/xm/code/marxist/the_market.py" . 1252)
  ("/Applications/Emacs.app/Contents/Resources/etc/TODO" . 4148)
- ("/Users/xm/code/marxist/the_left.py" . 407)
  ("/Users/xm/code/marxist/the_market.md" . 6)
  ("/Users/xm/.emacs.d/"
   (dired-filename . "/Users/xm/.emacs.d/init.el"))
@@ -21,22 +50,14 @@
  ("/Users/xm/Library/LaunchAgents/com.xm.emacs.plist" . 332)
  ("/Users/xm/code/marxist/readme.md" . 425)
  ("/Users/xm/code/marxist/README.md" . 30)
- ("/Users/xm/.zshrc" . 19)
  ("/Users/xm/.yabairc" . 2486)
- ("/Users/xm/Documents/todo.org" . 1673)
- ("/Users/xm/.skhdrc" . 3715)
  ("/Users/xm/Movies/Videos/Media.localized/Automatically Add To Videos.localized/" . 13491)
  ("/Users/xm/code/marxist/the_luvvoice.py" . 1148)
  ("/Users/xm/code/marxist/kongzi.jpg" . 67)
  ("/Users/xm/code/marxist/image_liening.jpg" . 56)
  ("/Applications/Emacs.app/Contents/Resources/etc/AUTHORS" . 14012)
- ("/Users/xm/code/helloworld/hello.c" . 287)
  ("/Users/xm/code/helloworld/index.html" . 238)
  ("/Users/xm/code/helloworld/readme.md" . 20)
- ("/Users/xm/code/helloworld/helloworld.c" . 907)
- ("/Users/xm/Documents/货币.md" . 1181)
- ("/Users/xm/Documents/"
-  (dired-filename . "/Users/xm/Documents/todo.org"))
  ("/Applications/Emacs.app/Contents/Resources/etc/DISTRIB" . 4568)
  ("/Users/xm/code/marxist/the_market.py~" . 20)
  ("/Users/xm/Movies/5月29日/" . 11244)
@@ -54,15 +75,11 @@
  ("/Users/xm/texput.log" . 2)
  ("/Users/xm/.config/kitty/"
   (dired-filename . "/Users/xm/.config/kitty/kitty.conf"))
- ("/Users/xm/Pictures/"
-  (dired-filename . "/Users/xm/Pictures/WechatIMG40.jpg"))
  ("/opt/homebrew/bin/jmacs" . 2)
  ("/Users/xm/Code/marxist/the_left.py" . 408)
- ("/Users/xm/Code/marxist/helloworld.c" . 177)
  ("/Users/xm/code/marxist/media/images/ArrowExample/"
   (dired-filename . "/Users/xm/code/marxist/media/images/ArrowExample/ArrowExample_ManimCE_v0.18.1.png"))
  ("/Applications/Emacs.app/Contents/Resources/etc/HELLO" . 1440)
- ("/Users/xm/code/editor/helloworld.c" . 75)
  ("/Users/xm/code/marxist/surfaceExample.py" . 2449)
  ("/Users/xm/code/editor/"
   (dired-filename . "/Users/xm/code/editor/HelloWorld.java"))
@@ -151,7 +168,6 @@
  ("/Users/xm/.myclirc" . 3695)
  ("/dev/"
   (dired-filename . "/dev/aes_0"))
- ("/Users/xm/.config/htop/htoprc" . 262)
  ("/opt/homebrew/bin/"
   (dired-filename . "/opt/homebrew/bin/autoconf"))
  ("/Users/xm/Library/"
@@ -181,7 +197,6 @@
  ("/Users/xm/.config/alacritty/alacritty.yml.back" . 818)
  ("/Users/xm/.config/alacritty/alacritty.toml" . 9)
  ("/Users/xm/code/python/helloworld_6.py" . 261)
- ("/Users/xm/.config/yazi/" . 14635)
  ("/Users/xm/code/marxist/the_politics_of_china.py" . 206)
  ("/etc/"
   (dired-filename . "/etc/localtime"))
